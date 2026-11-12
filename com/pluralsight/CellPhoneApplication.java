@@ -1,3 +1,5 @@
+package com.pluralsight;
+
 public class CellPhoneApplication {
    private int serialNumber;
    private String model;

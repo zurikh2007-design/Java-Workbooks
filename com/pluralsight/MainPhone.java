@@ -1,6 +1,8 @@
+package com.pluralsight;
+
 import java.util.Scanner;
 
-public class Main {
+public class MainPhone {
 
     public static void main(String[] args) {
         CellPhoneApplication phone1 = new CellPhoneApplication();
